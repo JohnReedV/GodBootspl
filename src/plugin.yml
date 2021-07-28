@@ -1,0 +1,8 @@
+main: com.company.Main
+name: GodBoots
+version: 1.0
+api-version: 1.14
+
+commands:
+  GodBoots:
+    discription: boots of da god

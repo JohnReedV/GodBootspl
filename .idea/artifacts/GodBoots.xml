@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GodBoots">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="GodBoots.jar">
+      <element id="module-output" name="GodBoots" />
+    </root>
+  </artifact>
+</component>
